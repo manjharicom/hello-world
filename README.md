@@ -1,2 +1,4 @@
 # hello-world
-Simple hellow world repository
+
+Simple repository for learning github.
+Also used to try out Azure webhooks
